@@ -28,7 +28,7 @@ You can quickly and easily create a README file by using a command-line applicat
 
 ## Screenshot
 
-read.ME screen shot.jpg
+C:\Users\jtdiz\OneDrive\Documents\GitHub\readMe-Generator\read.ME screen shot.jpg
 
 ## Demo
 
