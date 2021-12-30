@@ -1,7 +1,7 @@
 # README generator
 
   ## Table of Contents
-    - [Description](#description)
+    #description
     - [Installation](#installation)
     - [Usage](#usage)
     - [License](#license)
